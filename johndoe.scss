@@ -14,14 +14,14 @@
 
 
 // Core
-@import "vendors/bootstrap-4.3.1/functions";
+@import "/functions";
 
 // custom variables
 @import "abstracts/variables";
 // bootstrap variables
-@import "vendors/bootstrap-4.3.1/variables";
+@import "/bootstrap-4.3.1/variables";
 
-@import "vendors/bootstrap-4.3.1/mixins";
+@import "/bootstrap-4.3.1/mixins";
 @import "abstracts/mixins";
 
 
